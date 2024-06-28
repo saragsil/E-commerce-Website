@@ -77,11 +77,11 @@
             <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
                 <li style="margin-bottom: 1rem;">
                     <i class="fas fa-map-marker-alt fa-2x"></i>
-                    <p style="margin: 0; color: white;">IOANNINA</p>
+                    <p style="margin: 0; color: white;">Location</p>
                 </li>
                 <li style="margin-bottom: 1rem;">
                     <i class="fas fa-phone fa-2x" style="margin-top: 1rem;"></i>
-                    <p style="margin: 0; color: white;">+30 694 6301352</p>
+                    <p style="margin: 0; color: white;">Phone</p>
                 </li>
                 <li style="margin-bottom: 1rem;">
                     <i class="fas fa-envelope fa-2x" style="margin-top: 1rem;"></i>
